@@ -78,7 +78,7 @@ h3
 {
   font-family: 'Merriweather', serif;
   color:brown;
-  text-align: center;
+  text-align:center;
 }
 ol
 {
@@ -105,7 +105,8 @@ h2{color:red;}
  color:red;
 }
 .btn {
-  margin-left:43%;
+  align-content:center;
+  margin-left:40%;
   background: #30e3cb;
   background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
   background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
@@ -133,7 +134,8 @@ h2{color:red;}
   text-decoration: none;
 }
 .btn2 {
-  margin-left:45%;
+  align-content:center;
+  margin-left:42%;
   background: #30e3cb;
   background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
   background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
